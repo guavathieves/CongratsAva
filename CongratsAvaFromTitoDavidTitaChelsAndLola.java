@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-class CongratsAvaFromTitoDavidTitaChelsAndLola {
+class FromTitoDavidTitaChelsAndLola {
     public static void main(String[] args) {
         class Headspace {
             private final String mood;
