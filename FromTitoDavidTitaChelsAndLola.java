@@ -36,6 +36,12 @@ class FromTitoDavidTitaChelsAndLola {
         System.out.println(result);
         System.out.println();
         System.out.println("I see you Ava! Congrats Ava! Tito David and Tita Chels are super proud of you!");
-        System.out.println("Time to kick it!!! Peace!");
+        System.out.println("From rockin out your Hanah Montana toy guitar...");
+        System.out.println("to clickin heads in OW and Val,");
+        System.out.println("now you've hit a major goal, graduating high school,");
+        System.out.println("meeting it with chill and enthusiasm.");
+        System.out.println("We can't wait to see what ya got next");
+        System.out.println("Time to kick it!");
+        System.out.println("Peace and Love!");
     }
 }
